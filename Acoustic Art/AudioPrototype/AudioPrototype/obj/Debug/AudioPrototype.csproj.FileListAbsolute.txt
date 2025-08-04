@@ -1,0 +1,17 @@
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\obj\Debug\AudioPrototype.Properties.Resources.resources
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\obj\Debug\AudioPrototype.csproj.GenerateResource.Cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\bin\Debug\AudioPrototype.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\bin\Debug\AudioPrototype.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\bin\Debug\NAudio.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\obj\Debug\AudioPrototype.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\AudioPrototype\AudioPrototype\obj\Debug\AudioPrototype.pdb
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\obj\Debug\AudioPrototype.exe
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\obj\Debug\AudioPrototype.pdb
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\bin\Debug\AudioPrototype.exe
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\bin\Debug\AudioPrototype.pdb
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\bin\Debug\NAudio.dll
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\obj\Debug\AudioPrototype.Properties.Resources.resources
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\obj\Debug\ResGen.read.1.tlog
+C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype\obj\Debug\ResGen.write.1.tlog

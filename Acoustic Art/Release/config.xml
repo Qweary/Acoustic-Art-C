@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<config>
+	<InstrumentInfo>
+		<Instrument>
+			<name>Violin</name>
+			<id>40</id>
+			<range>
+				<lower>45</lower>
+				<upper>67</upper>
+			</range>
+		</Instrument>
+		<Instrument>
+			<name>Viola</name>
+			<id>41</id>
+			<range>
+				<lower>57</lower>
+				<upper>79</upper>
+			</range>
+		</Instrument>
+		<Instrument>
+			<name>Cello</name>
+			<id>42</id>
+			<range>
+				<lower>33</lower>
+				<upper>55</upper>
+			</range>
+		</Instrument>
+		<Instrument>
+			<name>String Bass</name>
+			<id>43</id>
+			<range>
+				<lower>21</lower>
+				<upper>55</upper>
+			</range>
+		</Instrument>
+	</InstrumentInfo>
+	<Bands>
+		<InstrumentSet>
+			<name>String Quartet</name>
+			<memberID>40</memberID>
+			<memberID>41</memberID>
+			<memberID>42</memberID>
+			<memberID>43</memberID>
+		</InstrumentSet>
+	</Bands>
+</config>

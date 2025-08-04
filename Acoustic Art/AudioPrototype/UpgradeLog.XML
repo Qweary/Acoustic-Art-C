@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AudioPrototype">
+</Property><Property Name="Solution File" Value="C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\AudioPrototype.suo">
+</Property><Property Name="Date" Value="Thursday, October 14, 2010">
+</Property><Property Name="Time" Value="14:47 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AudioPrototype.sln" Description="File successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AudioPrototype.suo" Description="File successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype.suo">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\AudioPrototype.csproj" Description="Project file successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype\AudioPrototype.csproj">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\AudioPrototype.csproj.user" Description="Project user file successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype\AudioPrototype.csproj.user">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\AudioPrototype.cs" Description="File successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype\AudioPrototype.cs">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\Resources\NAudio.dll" Description="File successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype\Resources\NAudio.dll">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Vince\Desktop\acoustic-art-vtilanuss-vtilanuss-acoustic-art2\AudioPrototype\Backup\AudioPrototype\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\AudioPrototype.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AudioPrototype" Source="AudioPrototype\AudioPrototype.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AudioPrototype.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AudioPrototype.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AudioPrototype" Source="AudioPrototype\AudioPrototype.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
