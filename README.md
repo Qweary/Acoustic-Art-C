@@ -1,0 +1,1 @@
+This is the computer sciencesenior desgin project I had the honor to be part of as the music expert. Thank you Creede, Kyle, and Vince for the great memories, I'm happy I preserved this, and hope you guys don't mind I am sharing it for the world after all these years. Hopefully the AudioHax project will move our vision further.
